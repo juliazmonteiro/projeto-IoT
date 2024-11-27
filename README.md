@@ -2,6 +2,11 @@
 
 Este projeto apresenta um sistema inovador de **monitoramento e detecção precoce de incêndios florestais**, utilizando tecnologias de **Internet das Coisas (IoT)** para fornecer uma solução eficiente, escalável e integrada. O sistema combina sensores, processamento de dados em tempo real para identificar condições críticas de incêndio em florestas. Com foco na preservação ambiental e alinhado aos Objetivos de Desenvolvimento Sustentável (ODS), a solução visa mitigar danos ambientais, proteger a biodiversidade e apoiar respostas rápidas a incêndios, utilizando tecnologias modernas de baixo custo e alto impacto.
 
+## 📂 Estrutura do Repositório
+
+- **`sketch.ino`**: Código fonte do ESP32 para leitura de sensores e publicação dos dados no MQTT.
+- **`diagram.json`**: Configuração do circuito simulado no Wokwi.
+- **`libraries.txt`**: Lista de bibliotecas necessárias para o projeto.
 
 ## 📋 Descrição do Projeto
 
@@ -32,6 +37,24 @@ Ao identificar incêndios florestais precocemente, o sistema contribui para:
 - Preservação da biodiversidade.
 - Redução de impactos ambientais severos.
 - Apoio ao manejo sustentável de florestas.
+
+- ## 🛠️ Configuração
+
+1. **Bibliotecas Necessárias**  
+   As seguintes bibliotecas devem ser instaladas no Arduino IDE:
+   - [DHT sensor library for ESPx](https://www.arduinolibraries.info/libraries/dht-sensor-library-for-es-px)
+   - [PubSubClient](https://www.arduinolibraries.info/libraries/pub-sub-client)
+   - [WiFi](https://www.arduinolibraries.info/libraries/wi-fi)
+
+2. **Configuração no Wokwi**  
+   Utilize o arquivo `diagram.json` para carregar o circuito no [Wokwi](https://wokwi.com).
+
+3. **Configuração MQTT**  
+   - Broker: `broker.hivemq.com`  
+   - Porta: `1883`  
+   - Tópicos:
+     - Temperatura: `projetoMonitoramento/Temperatura`
+     - Umidade: `projetoMonitoramento/Umidade`
 
 ## 👩‍💻 Equipe
 
