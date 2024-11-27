@@ -1,6 +1,7 @@
 # Sistema de Detecção Precoce de Incêndios Florestais Utilizando IoT
 
-Este repositório contém a implementação de um **sistema de monitoramento de incêndios florestais**, desenvolvido por estudantes da Universidade Presbiteriana Mackenzie como parte de um projeto acadêmico. O objetivo principal é detectar incêndios precocemente em regiões florestais, reduzindo danos ambientais e possibilitando uma resposta rápida e eficaz.
+Este projeto apresenta um sistema inovador de **monitoramento e detecção precoce de incêndios florestais**, utilizando tecnologias de **Internet das Coisas (IoT)** para fornecer uma solução eficiente, escalável e integrada. O sistema combina sensores, processamento de dados em tempo real para identificar condições críticas de incêndio em florestas. Com foco na preservação ambiental e alinhado aos Objetivos de Desenvolvimento Sustentável (ODS), a solução visa mitigar danos ambientais, proteger a biodiversidade e apoiar respostas rápidas a incêndios, utilizando tecnologias modernas de baixo custo e alto impacto.
+
 
 ## 📋 Descrição do Projeto
 
