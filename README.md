@@ -7,6 +7,7 @@ Este projeto apresenta um sistema inovador de **monitoramento e detecção preco
 - **`sketch.ino`**: Código fonte do ESP32 para leitura de sensores e publicação dos dados no MQTT.
 - **`diagram.json`**: Configuração do circuito simulado no Wokwi.
 - **`libraries.txt`**: Lista de bibliotecas necessárias para o projeto.
+- **`flows.json`**: Código fonte do Node-RED
 
 ## 📋 Descrição do Projeto
 
