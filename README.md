@@ -57,14 +57,4 @@ Ao identificar incêndios florestais precocemente, o sistema contribui para:
      - Temperatura: `projetoMonitoramento/Temperatura`
      - Umidade: `projetoMonitoramento/Umidade`
 
-## 👩‍💻 Equipe
-
-- **Isabella Akemi Kato**  
-  - Email: [10409153@mackenzista.com](mailto:10409153@mackenzista.com)
-- **Júlia Monteiro**  
-  - Email: [10400678@mackenzista.com.br](mailto:10400678@mackenzista.com.br)
-- **Natan Angelotti**  
-  - Email: [10401990@mackenzista.com.br](mailto:10401990@mackenzista.com.br)
-- **Nicole Previd**  
-  - Email: [10409002@mackenzista.com.br](mailto:10409002@mackenzista.com.br)
 
